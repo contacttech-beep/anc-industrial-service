@@ -1,9 +1,8 @@
+
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-    appDir: true,   // 👈 abilita la cartella app/
-  },
+  reactStrictMode: true,
 };
 
 export default nextConfig;
