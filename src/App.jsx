@@ -333,6 +333,8 @@ const CLIENTS = [
 
 // Image map — in prod these would be real URLs; for Vercel deploy they'll be in /public
 const IMAGES = {
+  img_electrical: "/img_electrical.webp",
+  img_wine_spirits: "/img_wine_spirits.avif",
   hero_bg: "/hero_bg.jpg",
   img_filling: "/img_filling.png",
   img_conveyor: "/img_conveyor.png",
