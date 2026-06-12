@@ -333,10 +333,10 @@ const CLIENTS = [
 
 // Image map
 const IMAGES = {
-  hero_bg: "/img_wine_spirits.avif",
+  hero_bg: "/hero_bg.jpg",
   img_beverage: "/img_beverage.jpg",
   img_dairy: "/img_dairy.jpg",
-  img_wine: "/img_wine.jpg",
+  img_wine: "/img_wine_spirits.avif",
   img_automation: "/img_automation.jpg",
   img_electrical: "/img_electrical.webp",
   img_wine_spirits: "/img_wine_spirits.avif",
